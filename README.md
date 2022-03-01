@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radicore
-- 👀 I’m interested in roblox games
+- 👀 I’m interested in roblox games and programming
 - 🌱 I’m currently learning coding and (sound space) map data, JavaScript, Python and Lua!
 - 📫 How to reach me: discord - NitroFun#9604
 
