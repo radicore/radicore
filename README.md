@@ -1,5 +1,6 @@
 - Hi, I’m @radicore
-- Currently interested in chess, Preferable language in coding is Lua and Python
+- A chess enthusiast and avid coder in Lua and Python.
+- Usually code outside github more
 
 <!---
 radicore/radicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
