@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @radicore
-- I’m interested in chess and coding small projects / continuing large ones in Python / Lua
-- How to reach me: discord - n1trofun
+- Hi, I’m @radicore
+- Currently interested in chess, Preferable language in coding is Lua and Python
 
 <!---
 radicore/radicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
