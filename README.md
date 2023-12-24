@@ -1,4 +1,4 @@
-- Hi, I’m @radicore
+- Hi! I’m @radicore
 - A chess enthusiast and avid programmer in Lua and Python.
 
 <!---
