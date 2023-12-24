@@ -1,6 +1,5 @@
 - Hi, I’m @radicore
-- A chess enthusiast and avid coder in Lua and Python.
-- Usually code outside github more
+- A chess enthusiast and avid programmer in Lua and Python.
 
 <!---
 radicore/radicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
