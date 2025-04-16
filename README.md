@@ -1,5 +1,5 @@
-- Hey!! I’m radicore. A chess enthusiast, and an avid programmer in Lua, Python, and C.
-- My main development is a chess engine in C called Rocket (however the source code is not public yet). It's rating is ~2300 ELO.
+- Greetings! I’m Radicore - a passionate chess enthusiast and dedicated programmer with expertise in Lua, Python, and C.
+- My primary development is a engine written in C, named Rocket. Rocket has achieved an estimated rating of ~2300 ELO. You can find it [here](https://lichess.org/@/RocketEngine) on Lichess.
 
 <!---
 radicore/radicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
