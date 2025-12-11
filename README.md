@@ -1,4 +1,4 @@
-- Greetings user! I’m Radicore, a passionate chess enthusiast and dedicated programmer with expertise in Lua, Python, and C.
+- I’m Radicore, a passionate chess enthusiast and dedicated programmer with expertise in Lua, Python, and C.
 - My primary development is a chess engine written in C named Rocket. It has achieved a rating of ~2300 ELO. You can find it [here](https://lichess.org/@/RocketEngine) on Lichess.
 
 <!---
